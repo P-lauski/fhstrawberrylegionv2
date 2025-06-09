@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/39d937c2-138a-4573-b1d4-e1ef0ac39418)
+
+
 # Strawberry Gardens Legion Square - V2
 
 An improved and reworked Strawberry Gardens Legion rework by [FalseHopeDesigns](https://falsehopedesigns.tebex.io/) that fixes gaps, prop placement, lights, and all other map issues in the [original release](https://forum.cfx.re/t/strawberry-gardens-free-legion-square-replaced). Includes working navmesh for proper ped movement throughout the map.
@@ -19,13 +22,21 @@ You may use the included sp_manifest file (WIP) in this resource, or combine the
 - [VerpiMoDz](https://forum.cfx.re/u/VerpiMoDz) for creating the original map, which can be found [here](https://forum.cfx.re/t/strawberry-gardens-free-legion-square-replaced/5122423).
 - [MrVicho13](https://www.gta5-mods.com/users/Mrvicho13) for creating the navmesh files for proper ambient ped movement/behaviour.
 - [Popcorn Roleplay](https://discord.gg/popcornroleplay) for testing and reporting bugs and issues with the map while it was being worked on.
+- [P-Lauski](https://imperial-studio.tebex.io/) and [LamontCranston](https://forum.cfx.re/u/lamontcranston/summary) for help troubleshooting, testing, and research
 
 # Photos:
 
 Day:
 
-Night:
+![image](https://github.com/user-attachments/assets/0e55f92f-9f52-40ce-80d1-6cb0ae4f24a7)
+![image](https://github.com/user-attachments/assets/95c70f3b-ba54-41b0-8480-b15c30f56f70)
+![image](https://github.com/user-attachments/assets/6d7d70d1-ce78-4de8-9733-36048cdf259d)
+![image](https://github.com/user-attachments/assets/8b877ebb-6640-4a3d-b099-47d71f953814)
+![image](https://github.com/user-attachments/assets/d2e8140a-507f-4917-8160-92410568a192)
 
+
+
+Night:
 
 ![image](https://github.com/user-attachments/assets/09245012-2bb1-4b5f-b03c-64c99d2086e9)
 ![image](https://github.com/user-attachments/assets/f1eb7576-fd6b-4f08-ba6b-44a2ce42a569)
