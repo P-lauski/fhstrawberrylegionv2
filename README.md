@@ -1,6 +1,6 @@
 # Strawberry Gardens Legion Square - V2
 
-An improved and reworked Strawberry Gardens Legion rework, that fixes gaps, prop placement, lights, and all other map issues in the [original release](https://forum.cfx.re/t/strawberry-gardens-free-legion-square-replaced). Includes working navmesh for proper ped movement throughout the map.
+An improved and reworked Strawberry Gardens Legion rework by [FalseHopeDesigns](https://falsehopedesigns.tebex.io/) that fixes gaps, prop placement, lights, and all other map issues in the [original release](https://forum.cfx.re/t/strawberry-gardens-free-legion-square-replaced). Includes working navmesh for proper ped movement throughout the map.
 
 **Warning:** Legion Square is a highly popular and central area of the GTA 5 map. While we have done our best to make this compatible with other maps, you may experience conflicts. 
 
@@ -8,6 +8,10 @@ If your map is escrowed or purchased from a creator, please get in touch with th
 
 ### **We will not provide compatibility or support.**
 
+Scenario files are provided in the Data folder. You must combine these in a preexisting sp_manifest file. Running two sp_manifest files **WILL** break scenarios (most obviously animal spawns) around the game map. A corrupted sp_manifest file **WILL** break scenarios and animal spawns around the map. 
+
+You may use the included sp_manifest file (WIP) in this resource, or combine the .ymt files with your already existing sp_manifest. Before reporting any issues regarding scenarios, double, triple, and quadruple-check your map files for sp_manifest files or other conflicting scenario files. All issues opened regarding scenarios or sp_manifest without detailed information will be closed.
+ 
 
 # Credits:
 
