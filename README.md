@@ -5,6 +5,8 @@
 
 An improved and reworked Strawberry Gardens Legion rework by [FalseHopeDesigns](https://falsehopedesigns.tebex.io/) that fixes gaps, prop placement, lights, and all other map issues in the [original release](https://forum.cfx.re/t/strawberry-gardens-free-legion-square-replaced). Includes working navmesh for proper ped movement throughout the map.
 
+[Video Preview Here](https://youtu.be/gUSAHbuDZKY)
+
 **Warning:** Legion Square is a highly popular and central area of the GTA 5 map. While we have done our best to make this compatible with other maps, you may experience conflicts. 
 
 If your map is escrowed or purchased from a creator, please get in touch with the original creator for assistance with compatibility.
