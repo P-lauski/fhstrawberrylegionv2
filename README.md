@@ -11,10 +11,9 @@ If your map is escrowed or purchased from a creator, please get in touch with th
 
 ### **We will not provide compatibility or support.**
 
-Scenario files are provided in the Data folder. You must combine these in a preexisting sp_manifest file. Running two sp_manifest files **WILL** break scenarios (most obviously animal spawns) around the game map. A corrupted sp_manifest file **WILL** break scenarios and animal spawns around the map. 
+If you have any other resources with a sp_manifest.ymt file it MUST be combined with the included sp_manifest.ymt file. Running two separate sp_manifest.ymt files **WILL** break scenarios (most obviously animal spawns) around the game map. A corrupted sp_manifest.ymt file **WILL** either just crash your game or completely break scenarios and animal spawns around the map.
 
-You may use the included sp_manifest file (WIP) in this resource, or combine the .ymt files with your already existing sp_manifest. Before reporting any issues regarding scenarios, double, triple, and quadruple-check your map files for sp_manifest files or other conflicting scenario files. All issues opened regarding scenarios or sp_manifest without detailed information will be closed.
- 
+Before reporting any issues regarding scenarios, double, triple, and quadruple-check your map files for sp_manifest.ymt files or other conflicting scenario *.ymt files. All issues opened regarding scenarios or the sp_manifest file without detailed information will be closed. The same applies for any other general mapping files which may conflict with surrounding mlos (Most notably Pillbox hospitals, Fleeca banks and MRPD mlos.)
 
 # Credits:
 
