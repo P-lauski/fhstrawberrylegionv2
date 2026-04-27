@@ -5,7 +5,7 @@ author 'FalseHope'
 
 description 'Strawberry Gardens Legion Square by VerpiModDz Updated and Reworked by FalseHopeDesigns'
 
-version '1.0.0'
+version '1.1.2'
 
 files {
     'sp_manifest.ymt',
