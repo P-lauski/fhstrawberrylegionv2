@@ -13,7 +13,11 @@ If your map is escrowed or purchased from a creator, please get in touch with th
 
 ### **We will not provide compatibility or support.**
 
-If you have any other resources with a sp_manifest.ymt file it MUST be combined with the included sp_manifest.ymt file. Running two separate sp_manifest.ymt files **WILL** break scenarios (most obviously animal spawns) around the game map. A corrupted sp_manifest.ymt file **WILL** either just crash your game or completely break scenarios and animal spawns around the map.
+**Please read all of the below information about properly using the sp_manifest.ymt file.**
+
+**DO NOT RENAME THE RESOURCE FOLDER** The folder must be named exactly *fhstrawberrylegionv2* without any version numbers etc. If the folder is not named exactly this, the scenario sp_manifest.ymt will more than likely just crash your game.
+
+And if you have any other resources on your server with a sp_manifest.ymt file it MUST be combined with this included sp_manifest.ymt file. Running two separate sp_manifest.ymt files **WILL** break server scenarios (most obviously animal spawns) around the game map. A corrupted sp_manifest.ymt file **WILL** either just crash your game or just completely break scenarios and animal spawns around the map.
 
 Before reporting any issues regarding scenarios, double, triple, and quadruple-check your map files for sp_manifest.ymt files or other conflicting scenario *.ymt files. All issues opened regarding scenarios or the sp_manifest file without detailed information will be closed. The same applies for any other general mapping files which may conflict with surrounding mlos (Most notably Pillbox hospitals, Fleeca banks and MRPD mlos.)
 
@@ -23,7 +27,7 @@ Before reporting any issues regarding scenarios, double, triple, and quadruple-c
 - [VerpiMoDz](https://forum.cfx.re/u/VerpiMoDz) for creating the original map, which can be found [here](https://forum.cfx.re/t/strawberry-gardens-free-legion-square-replaced/5122423).
 - [MrVicho13](https://www.gta5-mods.com/users/Mrvicho13) for creating the navmesh files for proper ambient ped movement/behaviour.
 - [Popcorn Roleplay](https://discord.gg/popcornroleplay) for testing and reporting bugs and issues with the map while it was being worked on.
-- [P-Lauski](https://imperial-studio.tebex.io/) and [LamontCranston](https://forum.cfx.re/u/lamontcranston/summary) for help troubleshooting, testing, and research
+- [P-Lauski](https://imperial-studio.tebex.io/) and [LamontCranston](https://forum.cfx.re/u/lamontcranston/summary) for help troubleshooting, testing, additional fixes and research.
 
 # Photos:
 
